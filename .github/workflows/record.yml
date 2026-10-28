@@ -31,7 +31,7 @@ jobs:
       fail-fast: false
       matrix:
         target:
-          - "@anshhhlive_1|UC3NiNPo4kJYnYYhV_6ZnUGw"
+          - "@TheGoodLifeRadioxSensualMusique|UChs0pSaEoNLV4mevBFGaoKA"
 
     steps:
       - name: Checkout Repository
